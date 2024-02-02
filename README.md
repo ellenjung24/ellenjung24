@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hey there, I'm Ellen! 👋 </h1>
+<!-- <h1>Hey there, I'm Ellen! 👋 </h1> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ellenjung24.ellenjung24" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ellen+Jung!;" />
+</h1>
+
 <h3>I'm a passionate software developer based in Vancouver</h3>
 
 - ✨ I really enjoy building new web apps and learning new technologies throughout the process!
