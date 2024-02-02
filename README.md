@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java, python, c, cs, html, css, javascript, typescript, nodejs, react, mongodb, aws, mysql, dotnet, docker, git, azure, laravel" /> <br>
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css,javascript,typescript,nodejs,react,mongodb,aws,mysql,dotnet,docker,git,azure,laravel" /> <br>
 </div>
   
 <!-- - 👨‍💻 My portfolio: [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
