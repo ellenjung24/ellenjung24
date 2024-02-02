@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hey there, I'm Ellen! 👋 </h1>
-<h3>I'm a passionate software developer in Vancouver</h3>
+<h3>I'm a passionate software developer based in Vancouver</h3>
 
 - ✨ I really enjoy building new web apps and learning new technologies throughout the process!
   
