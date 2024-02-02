@@ -37,6 +37,14 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+ <hr/>
+
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java, python, c, cs, html, css, javascript, typescript, nodejs, react, mongodb, aws, mysql, dotnet, docker, git, azure, laravel" /> <br>
+</div>
   
 <!-- - 👨‍💻 My portfolio: [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
 
