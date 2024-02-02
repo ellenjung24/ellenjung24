@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there, I'm Ellen! 👋 </h1>
 <h3 align="center">A passionate software developer in Vancouver</h3>
 
-- 👨‍💻 All of my projects are available at [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
+- 👨‍💻 My portfolio: [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
 
 - 📫 How to reach me **ellenjung24@gmail.com**
 
