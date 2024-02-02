@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Hey there, I'm Ellen! 👋 </h1>
 <h3>I'm a passionate software developer in Vancouver</h3>
 
-- ✨ I really enjoy building new web apps and learning new technologies throughout the process. In addition, I love to see myself gradually progressing by picking up new skills and meeting various people while working in a team!
+- ✨ I really enjoy building new web apps and learning new technologies throughout the process!
   
 - 👨‍💻 My portfolio: [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
 
