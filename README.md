@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ✨ I really enjoy building new web apps and learning new technologies throughout the process!
 
 - 👨‍💻 How to reach me: 
-<div> 
+<div margin-right='10px'> 
   <a href="mailto:ellenjung24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   </a>
 </div>
   
-- 👨‍💻 My portfolio: [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
+<!-- - 👨‍💻 My portfolio: [https://ellen-jung-portfolio.onrender.com/](https://ellen-jung-portfolio.onrender.com/)
 
-- 📫 How to reach me: **ellenjung24@gmail.com**
+- 📫 How to reach me: **ellenjung24@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
